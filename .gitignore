@@ -1,0 +1,17 @@
+.DS_Store
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+data/raw/
+results/recomputed/
+*.duckdb
+*.duckdb.wal
+duckdb_tmp/
+*.zip
+*.csv.gz
+*.log
+
