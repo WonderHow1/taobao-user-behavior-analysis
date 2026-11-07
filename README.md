@@ -6,9 +6,9 @@
 
 ## 项目看板
 
-![淘宝用户行为分析看板](https://raw.githubusercontent.com/WonderHow1/taobao-user-behavior-analysis/50df238b1a8ffdc362796b99d659681aa76ecc7b/assets/overview.png)
+![淘宝用户行为分析看板](https://raw.githubusercontent.com/WonderHow1/taobao-user-behavior-analysis/c5b10ec9dc1289b051d092c1104f6c0a9201fd81/assets/overview.png)
 
-[查看原尺寸看板](https://github.com/WonderHow1/taobao-user-behavior-analysis/blob/50df238b1a8ffdc362796b99d659681aa76ecc7b/assets/overview.png)。
+[查看原尺寸看板](https://github.com/WonderHow1/taobao-user-behavior-analysis/blob/c5b10ec9dc1289b051d092c1104f6c0a9201fd81/assets/overview.png)。
 
 ## 原始文件说明
 
